@@ -25,7 +25,7 @@ Projects
 - Efficient Imitation Learning
     - Designing robot learning algorithms that are sample-efficient in terms of both demonstration data and online interaction times, which can directly be used for training on real robots.
 - Dual Representation for Preference Learning
-    - Incorporate **Scene graph** as a high-level abstraction representation to facilitate better query selection algorithms in preference learning.
+    - Incorporate Scene graph as a high-level abstraction representation to facilitate better query selection algorithms in preference learning.
 - Concurrent Multi-task Learning
     - Come up with a new task setting where the demonstrator demonstrates multiple tasks in a single demonstration, and the algorithm tries to learn all these tasks with these "concurrent" demonstrations.
     - Propose a EM-based Neural Network learning algorithm that can effectively learns separate tasks without requiring extra labels.
