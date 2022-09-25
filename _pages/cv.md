@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 ------
-* B.S. in Computer Science, 2023(expected)
+* B.S. in Computer Science, Tsinghua University, 2023(expected)
 
 Work experience
 ------
@@ -38,6 +38,13 @@ Work experience
   * Duties included: Using BART+CVAE to do sequence-to-sequence Ad-Title generation from landing pages.
   * Supervisor: Tianqi Zhao(mentor), Fantasy Zhang(manager)
 
+
+Publications
+------
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
   
 Skills
 ------
@@ -56,11 +63,7 @@ Skills
 * Verilog/VHDL
 * Rust
 
-Publications
-------
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
   
   
