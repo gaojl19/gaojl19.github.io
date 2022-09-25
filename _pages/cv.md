@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[See the pdf version here](https://github.com/gaojl19/gaojl19.github.io/files/JialuGao.pdf)
+[See the pdf version here](https://github.com/gaojl19/gaojl19.github.io/tree/master/files/JialuGao.pdf)
 
 
 Education
