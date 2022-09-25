@@ -13,11 +13,11 @@ redirect_from:
 
 
 Education
-======
+------
 * B.S. in Computer Science, 2023(expected)
 
 Work experience
-======
+------
 * Fall 2022: Research Assistant
   * Tsinghua University
   * Duties included: Merging pull requests
@@ -40,7 +40,7 @@ Work experience
 
   
 Skills
-======
+------
 * C/C++
     * Object Oriented Programming
     * Qt for desiging programs with GUI
@@ -57,7 +57,7 @@ Skills
 * Rust
 
 Publications
-======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
