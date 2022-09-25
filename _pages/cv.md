@@ -9,32 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
+[See the pdf version here](https://github.com/gaojl19/gaojl19.github.io/files/JialuGao.pdf)
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, 2023(expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2022: Research Assistant
+  * Tsinghua University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Huazhe Xu
+
+* Summer 2022: On-Site Research Assistant
+  * Stanford University
+  * Duties included: Designing and experimenting more efficient and user-friendly preference learning algorithms
+  * Supervisor: Ruohan Zhang(postdoc), Jiajun Wu, Fei-fei Li
+
+* Fall 2021 - Spring 2021: Remote Research Assistant
+  * Stanford University
+  * Duties included: Desiging Multi-task algorithms
+  * Supervisor: Ruohan Zhang(postdoc), Huazhe Xu(postdoc), Jiajun Wu
+
+* Summer 2021: Maching Learning Intern
+  * Microsoft China
+  * Duties included: Using BART+CVAE to do sequence-to-sequence Ad-Title generation from landing pages.
+  * Supervisor: Tianqi Zhao(mentor), Fantasy Zhang(manager)
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++
+    * Object Oriented Programming
+    * Qt for desiging programs with GUI
+    * Multiprocessing packages including OpenMP, MPI
+* Python
+  * Data Processing packages including numpy, pandas
+  * Proficient in PyTorch
+* Java
+    * Android Development
+* R
+* LaTeX
+* CUDA
+* Verilog/VHDL
+* Rust
 
 Publications
 ======
@@ -42,18 +62,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

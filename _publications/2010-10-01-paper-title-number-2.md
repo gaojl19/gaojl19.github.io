@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "A Dual Representation Framework for Robot Learning with Human Guidance"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2022-9-10
+venue: 'CoRL(The Conference on Robot Learning)'
+paperurl: 'https://openreview.net/forum?id=H6rr_CGzV9y'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper is about the Dual Representation Framework which uses scene graph to facilitate more efficient human-in-the-loop Reinforcement Learning algorithms, including evaluative feedback and preference learning.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Read paper here]('https://openreview.net/forum?id=H6rr_CGzV9y')
