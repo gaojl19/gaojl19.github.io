@@ -31,4 +31,4 @@ Projects
     - Propose a EM-based Neural Network learning algorithm that can effectively learns separate tasks without requiring extra labels.
 - Neuromorphic Computing
     - Explore the origin of CBRAM with High Linearity, ON/OFF Ratio, and State Number
-    - Builind Powerful Neural Network using this CBRAM model as neurons which can solve the MNIST classification problem with up to 92% accuracy.
+    - Builind Powerful Neural Network using this CBRAM model as neurons which can solve the MNIST classification problem with SOTA performance(92%) compared to previous neuromorphic computation networks(80%).
