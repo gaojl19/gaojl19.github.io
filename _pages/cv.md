@@ -19,18 +19,18 @@ Education
 Work experience
 ------
 * Fall 2022: Research Assistant
-  * Tsinghua University
-  * Duties included: Merging pull requests
+  * Tsinghua University, IIIS
+  * Duties included: Designing robot learning algorithms that aims to leverage the large scale data from the Internet
   * Supervisor: Huazhe Xu
 
 * Summer 2022: On-Site Research Assistant
-  * Stanford University
-  * Duties included: Designing and experimenting more efficient and user-friendly preference learning algorithms
+  * Stanford University, CogAI & SVL Lab
+  * Duties included: Designing and experimenting sample-efficient and user-friendly preference learning algorithms
   * Supervisor: Ruohan Zhang(postdoc), Jiajun Wu, Fei-fei Li
 
 * Fall 2021 - Spring 2021: Remote Research Assistant
-  * Stanford University
-  * Duties included: Desiging Multi-task algorithms
+  * Stanford University, CogAI Lab
+  * Duties included: Desiging Multi-task imitation learning algorithms
   * Supervisor: Ruohan Zhang(postdoc), Huazhe Xu(postdoc), Jiajun Wu
 
 * Summer 2021: Maching Learning Intern
