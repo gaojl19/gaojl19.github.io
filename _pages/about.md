@@ -14,6 +14,7 @@ I am a highly motivated researcher and I have been enjoying research during my u
 
 News
 ======
+- I graduated from the Computer Science Department of Tsinghua University with a Bachelor's degree in engineering!
 - Our paper "A Dual Representation Framework for Robot Learning with Human Guidance" is accepted by CORL'22
 - I gave a talk at Stanford Vision & Learning Lab
 - I became a visiting research intern at Stanford in July, 2022
