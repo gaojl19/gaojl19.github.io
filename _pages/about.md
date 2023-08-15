@@ -24,7 +24,7 @@ News
 Projects
 ======
 - Robot Learning with Text-to-Image Models
-    - Explore the possibility of utilizing the knowledge embedded in pre-trained text2image diffusion models to provide visual guidance for robot learning, without any expert demonstrations or human-designed reward functions.
+    - Explore the possibility of **utilizing the knowledge embedded in pre-trained text2image diffusion models to provide visual guidance for robot learning**, without any expert demonstrations or human-designed reward functions.
     - Propose a pipeline using image editing techniques to generate visual goals for example-based visual RL, and experiments in simulation and real-world validates the effectiveness of the proposed method.
 
 - Dual Representation for Robot Learning under Human Guidance
@@ -37,4 +37,4 @@ Projects
     
 - Neuromorphic Computing
     - Explore **the origin of CBRAM with High Linearity, ON/OFF Ratio, and State Number**, which are crucial for a successful neuromorphic computation network(such as deep-learning neural networks) built from these CBRAMs as neurons.
-    - Build a Powerful Neural Network using this CBRAM model as neurons which can **solve the MNIST classification problem with SOTA performance(92%) compared to previous neuromorphic computation networks(80%)**.
+    - Build a Powerful Neural Network using this CBRAM model as neurons which can solve the MNIST classification problem with SOTA performance(92%) compared to previous neuromorphic computation networks(80%).

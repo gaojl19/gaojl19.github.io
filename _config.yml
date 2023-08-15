@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jialu Gao"
   avatar           : "profile.jpg"
-  bio              : "Computer Science student at Tsinghua University, expert in Robotics/RL, Deep Learning"
-  location         : "Beijing, China"
+  bio              : "Master student at Carnegie Mellon University, expert in Robotics/RL, Deep Learning"
+  location         : "Pittsburgh, PA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=PokBJE0AAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "jialug@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
