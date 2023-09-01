@@ -1,4 +1,10 @@
-<!DOCTYPE html>
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 <div class="content" style="padding-bottom: 64px;">
     <div>
         <h2 class="noselect">Publications and preprints</h2>
