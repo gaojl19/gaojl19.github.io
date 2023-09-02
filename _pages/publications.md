@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<!DOCTYPE html>
 <head>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -21,6 +20,7 @@ author_profile: true
                 <a class="btn btn-orange" href="https://lfvoid-rl.github.io">project page</a> / <a class="btn btn-red" href="https://arxiv.org/abs/2307.07837">arXiv</a> 
             </div>
         </div>
+        <p></p>
         <div class="publication row clearfix">
             <div class="row-media" style="background-image: url(files/dual_representation.png);"></div>
             <div class="row-text">
@@ -30,6 +30,7 @@ author_profile: true
                 <a class="btn btn-orange" href="https://sites.google.com/view/dr-hrl">project page</a> / <a class="btn btn-red" href="https://openreview.net/forum?id=H6rr_CGzV9y">openreview</a> 
             </div>
         </div>
+        <p></p>
         <div class="publication row clearfix">
             <div class="row-media" style="background-image: url(files/CBRAM.png);"></div>
             <div class="row-text">
