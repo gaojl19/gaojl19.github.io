@@ -76,7 +76,7 @@ p {line-height: 1.5em;}
             <div class="row-media" style="background-image: url('CBRAM.png');"></div>
             <div class="row-text">
                 <a class="publication-title bold" href="https://ieeexplore.ieee.org/document/9384166">The Origin of CBRAM With High Linearity, ON/OFF Ratio, and State Number for Neuromorphic Computing</a><br/>
-                Yanming Liu , Jialu Gao , Fan Wu , He Tian , Senior Member, Tian-Ling Ren<br/>
+                Yanming Liu , <span class="bold">Jialu Gao</span> , Fan Wu , He Tian , Senior Member, Tian-Ling Ren<br/>
                 <span class="italic">IEEE TRANSACTIONS ON ELECTRON DEVICES </span>, 2021<br/>
                 <a class="btn btn-red" href="https://ieeexplore.ieee.org/document/9384166">IEEE</a>
             </div>
