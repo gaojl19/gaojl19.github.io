@@ -11,7 +11,6 @@ author_profile: true
 
 <div class="content" style="padding-bottom: 64px;">
     <div>
-        <h2 class="noselect">Publications and preprints</h2>
         <p>Papers sorted by recency.</p>
         <div class="publication row clearfix">
             <div class="row-media" style="background-image: url(files/gnfactor.gif);"></div>
