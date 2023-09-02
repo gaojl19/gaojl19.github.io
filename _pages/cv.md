@@ -14,6 +14,7 @@ redirect_from:
 
 Education
 ------
+* M.S. in Robotics, Carnegie Mellon University, 2025(expected)
 * B.S. in Computer Science, Tsinghua University, 2023
 
 Work experience
