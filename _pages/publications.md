@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<!DOCTYPE html>
 <head>
     <link rel="stylesheet" href="style.css">
 </head>
