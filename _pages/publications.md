@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
 
 <div class="content" style="padding-bottom: 64px;">
     <div>
