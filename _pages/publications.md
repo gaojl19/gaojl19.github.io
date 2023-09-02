@@ -4,10 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<head>
-    <link rel="stylesheet" href="style.css">
-</head>
-
 <style>
 html {-webkit-text-size-adjust: 100%; -moz-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
 body {background-color: #fdfdfd; color: #2c3c4c; margin: 0; font-size: 13px;}
