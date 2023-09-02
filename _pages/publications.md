@@ -17,7 +17,7 @@ author_profile: true
             <div class="row-text">
                 <a class="publication-title bold" href="https://arxiv.org/abs/2307.07837">Can Pre-Trained Text-to-Image Models Generate Visual Goals for Reinforcement Learning?</a><br/>
                 <span class="bold">Jialu Gao*</span>, Kaizhe Hu*, Guowei Xu, Huazhe Xu<br/>
-                <a class="btn btn-orange" href="https://lfvoid-rl.github.io">project page</a> / <a class="btn btn-red" href="https://arxiv.org/abs/2307.07837">arXiv</a> 
+                <a href="https://lfvoid-rl.github.io">project page</a> / <a href="https://arxiv.org/abs/2307.07837">arXiv</a> 
             </div>
         </div>
         <p></p>
