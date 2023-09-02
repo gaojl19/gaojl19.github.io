@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year master student in the Robotics Institute at Carnegie Mellon University. My research interests include **Reinforcement Learning**, **Robotics**, and **Deep Learning**. Specifically, my research focuses on designing reinforcement learning algorithms that can be directly applied on real robots, either through sample-efficient learning methods or sim-to-real transfer/generalizations.
+I am a first-year master student in the Robotics Institute at Carnegie Mellon University. My research interests include **Reinforcement Learning**, **Large Generation Models**, and **Deep Learning** .
 
-I am a highly motivated researcher and I have been enjoying research during my undergraduate years, and hope to spend my future years doing more significant and exciting research.
+I am a highly motivated researcher and I have been enjoying research during my undergraduate years, and hope to spend my future years doing significant and exciting research that can be applied in the real world.
 
 News
 ======
+- I joined Carnegie Mellon Univerisy for the Master's in Robotics (MSR) program!
 - I graduated from the Computer Science Department of Tsinghua University with a Bachelor's degree in engineering!
 - Our paper "A Dual Representation Framework for Robot Learning with Human Guidance" is accepted by CORL'22
 - I gave a talk at Stanford Vision & Learning Lab
@@ -23,7 +24,7 @@ News
 
 Projects
 ======
-- Robot Learning with Text-to-Image Models
+- Robot Learning with Text-to-Image Generation Models
     - Explore the possibility of **utilizing the knowledge embedded in pre-trained text2image diffusion models to provide visual guidance for robot learning**, without any expert demonstrations or human-designed reward functions.
     - Propose a pipeline using image editing techniques to generate visual goals for example-based visual RL, and experiments in simulation and real-world validates the effectiveness of the proposed method.
 
