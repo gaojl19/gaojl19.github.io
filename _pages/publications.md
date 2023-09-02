@@ -74,7 +74,6 @@ p {line-height: 1.5em;}
                 <a class="btn btn-orange" href="https://lfvoid-rl.github.io">Project Page</a> / <a class="btn btn-orange" href="https://arxiv.org/abs/2307.07837">ArXiv</a> 
             </div>
         </div>
-        <p></p>
         <div class="publication row clearfix">
             <div class="row-media" style="background-image: url(files/dual_representation.png);"></div>
             <div class="row-text">
@@ -84,7 +83,6 @@ p {line-height: 1.5em;}
                 <a class="btn btn-orange" href="https://sites.google.com/view/dr-hrl">Project Page</a> / <a class="btn btn-red" href="https://openreview.net/forum?id=H6rr_CGzV9y">Openreview</a> 
             </div>
         </div>
-        <p></p>
         <div class="publication row clearfix">
             <div class="row-media" style="background-image: url(files/CBRAM.png);"></div>
             <div class="row-text">
