@@ -68,7 +68,7 @@ p {line-height: 1.5em;}
             <div class="row-text">
                 <a class="publication-title bold" href="https://openreview.net/forum?id=H6rr_CGzV9y">A Dual Representation Framework for Robot Learning with Human Guidance</a><br/>
                 Ruohan Zhang*, Dhruva Bansal*, Yilun Hao*, Ayano Hiranaka, <span class="bold">Jialu Gao</span> Chen Wang, Roberto Martín-Martín, Li Fei-Fei, Jiajun Wu<br/>
-                <span class="italic">Conference on Robot Learning (<a href="https://corl2022.org">CoRL</a>)</span>, 2022</span><br/>
+                <span class="italic">Conference on Robot Learning (<a href="https://corl2022.org">CoRL</a>)</span>, 2022<br/>
                 <a class="btn btn-orange" href="https://sites.google.com/view/dr-hrl">Project Page</a> / <a class="btn btn-red" href="https://openreview.net/forum?id=H6rr_CGzV9y">Openreview</a> 
             </div>
         </div>
