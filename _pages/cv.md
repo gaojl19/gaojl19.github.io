@@ -40,7 +40,7 @@ Work experience
     * Proposed a novel concurrent multi-task imitation learning setting, and a bootstrapping learning algorithm for the problem.
   
 
-* Summer 2021: 
+* Summer 2021
   * Maching Learning Intern, Microsoft, China
   * Supervisor: Tianqi Zhao(mentor), Fantasy Zhang(manager)
   * Research Topic: Large Language Generation Models
