@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year master student in the Robotics Institute at Carnegie Mellon University. My research interests include **Reinforcement Learning**, **Large Generation Models**, and **Deep Learning** .
+I am a first-year master student in the Robotics Institute at Carnegie Mellon University, working with Prof.Fernando De La Torre and Dr.Joseph K J on evaluation for vision language models. During my undergrad, I worked with Prof.Huazhe Xu at Tsinghua University on reinforcement learning. I have also collaborated with Dr.Ruohan Zhang at Prof.Jiajun Wu's Lab at Stanford University on Human-robot interaction. I also spent a summer doing internship at Microsoft WebXT group, Bing Ads team. 
 
-I am a highly motivated researcher and I have been enjoying research during my undergraduate years, and hope to spend my future years doing significant and exciting research that can be applied in the real world.
 
 News
 ======
-- I joined Carnegie Mellon Univerisy for the Master's in Robotics (MSR) program!
+- One paper accepted at Neurips'23
+- I joined Carnegie Mellon Univerisy for the Master's in Robotics (MSR) program! 
 - I graduated from the Computer Science Department of Tsinghua University with a Bachelor's degree in engineering!
 - Our paper "A Dual Representation Framework for Robot Learning with Human Guidance" is accepted by CORL'22
 - I gave a talk at Stanford Vision & Learning Lab
