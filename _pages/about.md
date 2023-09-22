@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year master student in the Robotics Institute at Carnegie Mellon University, working with **Prof.Fernando De La Torre** and **Dr.Joseph K J** on evaluation for vision language models. During my undergrad, I worked with **Prof.Huazhe Xu** at Tsinghua University on reinforcement learning. I have also collaborated with **Dr.Ruohan Zhang** at **Prof.Jiajun Wu**'s Lab at Stanford University on Human-robot interaction. I also spent a summer doing internship at Microsoft WebXT group, Bing Ads team. 
+I am a first-year master student in the Robotics Institute at Carnegie Mellon University, working with **Prof.Fernando De La Torre** and **Dr.Joseph K J** on evaluation for vision language models. 
+
+During my undergrad, I worked with **Prof.Huazhe Xu** at Tsinghua University on reinforcement learning. I have also collaborated with **Dr.Ruohan Zhang** at **Prof.Jiajun Wu**'s Lab at Stanford University on Human-robot interaction. I also spent a summer doing internship at Microsoft WebXT group, Bing Ads team. 
 
 
 News
