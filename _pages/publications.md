@@ -1,8 +1,7 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+redirect_to: /#research
 ---
 <style>
 .header {background: linear-gradient(to bottom, #f5f5f8 10%, #f1f1f5 90%); width: 100%; padding-top: 16px; padding-bottom: 32px;}

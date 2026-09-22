@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Jialu Gao"
 title_separator          : "-"
 name                     : &name "Jialu Gao"
-description              : &description "Computer Science Student at Tsinghua University"
+description              : &description "Jialu Gao is a data scientist at Microsoft AI working on large language model evaluation, generative AI, and robot learning."
 url                      : https://gaojl19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gaojl19.github.io"
+repository               : "gaojl19/gaojl19.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jialu Gao"
-  avatar           : "profile.jpg"
-  bio              : "Master student at Carnegie Mellon University, expert in Robotics/RL, Deep Learning"
-  location         : "Pittsburgh, PA"
+  avatar           : "profile-2026.jpg"
+  bio              : "Data Scientist at Microsoft AI"
+  location         : "United States"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=PokBJE0AAAAJ&hl=en&oi=ao"
-  email            : "jialug@andrew.cmu.edu"
+  email            : "gaojialululu@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/DanikaGao21"
+  twitter          :
   vine             :
   weibo            :
   xing             :
